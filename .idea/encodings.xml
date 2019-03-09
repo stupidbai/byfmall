@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/byfmall-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/byfmall-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/byfmall-manager-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/byfmall-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/byfmall-sellergoods-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/byfmall-sellergoods-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/byfmall-shop-web" charset="UTF-8" />
+  </component>
+</project>

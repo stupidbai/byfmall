@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/byfmall-sellergoods-service" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/byfmall-common/pom.xml" />
+        <option value="$PROJECT_DIR$/byfmall-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/byfmall-manager-web/pom.xml" />
+        <option value="$PROJECT_DIR$/byfmall-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/byfmall-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/byfmall-sellergoods-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/byfmall-sellergoods-service/pom.xml" />
+        <option value="$PROJECT_DIR$/byfmall-shop-web/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
